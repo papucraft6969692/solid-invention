@@ -3202,3 +3202,8 @@ java.net.UnknownHostException: size-river.gl.joinmc.link: No address associated 
 [15Mar2025 21:56:36.007] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to ElPerejil24
 [15Mar2025 21:56:36.009] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9b62ed79-c86d-3066-8f98-8bbb6e55216d was loaded
 [15Mar2025 22:03:02.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElPerejil24: Set own game mode to Spectator Mode]
+[15Mar2025 22:03:35.004] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElPerejil24 lost connection: Disconnected
+[15Mar2025 22:03:35.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElPerejil24 left the game
+[15Mar2025 22:03:35.007] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9b62ed79-c86d-3066-8f98-8bbb6e55216d was unloaded
+[15Mar2025 22:03:35.010] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElPerejil24
+[15Mar2025 22:11:29.835] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e3fe8ce[id=<null>,name=ElPerejil24,properties={},legacy=false] (/127.199.95.113:39145) lost connection: Disconnected
