@@ -1,0 +1,158 @@
+{
+	always_invisible: true
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "misiones"
+	group: "2EF426A63DC9F86C"
+	icon: {
+		Count: 1
+		ForgeCaps: {
+			"celestisynth:celestisynthitemstackcapabilities": {
+				cs.aquaSkin: 0
+			}
+		}
+		id: "domesticationinnovation:deed_of_ownership"
+	}
+	id: "345BA7102444D712"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			id: "2C9EC4F3118926AF"
+			rewards: [{
+				count: 64
+				id: "538478F84A6BEE32"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:zombie"
+				id: "0DFCA60A4FF03EBD"
+				type: "kill"
+				value: 50L
+			}]
+			x: -0.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			id: "324AA03A231FBC5A"
+			rewards: [{
+				count: 64
+				id: "474E512CDB23C89A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				id: "79A0E087BD5425AA"
+				type: "kill"
+				value: 50L
+			}]
+			x: 0.5d
+			y: -3.0d
+		}
+		{
+			can_repeat: true
+			id: "18C05FF6435B5183"
+			rewards: [{
+				count: 64
+				id: "1D57B6504116A8A4"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				entity: "minecraft:creeper"
+				id: "22A93BD980B54B56"
+				type: "kill"
+				value: 50L
+			}]
+			x: -1.5d
+			y: -2.5d
+		}
+		{
+			description: ["Se iran cambiando las misiones de vez en cuando."]
+			id: "54751DFF2BFAA271"
+			rewards: [{
+				id: "646E529ECB68661F"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "alexsmobs:stink_ray"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2DC9E81824203749"
+				title: "Información"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			id: "0B5F6FB5B99F4400"
+			tasks: [{
+				entity: "minecraft:spider"
+				id: "42452D33C787F2E4"
+				type: "kill"
+				value: 50L
+			}]
+			x: 1.5d
+			y: -2.5d
+		}
+		{
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "quark:dark_oak_chest"
+			}
+			id: "7C360A6AD9F08EA8"
+			tasks: [{
+				advancement: "lootr:100loot"
+				criterion: ""
+				id: "2683DC9E9087A690"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+	]
+	title: "Misiones"
+}
