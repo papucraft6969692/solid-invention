@@ -533,21 +533,15 @@
     },
     "done": true
   },
+  "create:conductor": {
+    "criteria": {
+      "0": "2025-03-16 00:52:42 +0000"
+    },
+    "done": true
+  },
   "comforts:hammock_red": {
     "criteria": {
       "has_red_wool": "2025-03-16 02:05:19 +0000"
-    },
-    "done": true
-  },
-  "create:display_link": {
-    "criteria": {
-      "0": "2025-03-16 02:29:38 +0000"
-    },
-    "done": true
-  },
-  "createrailwaysnavigator:advanced_display": {
-    "criteria": {
-      "requirement": "2025-03-16 02:26:32 +0000"
     },
     "done": true
   },
@@ -557,9 +551,27 @@
     },
     "done": true
   },
-  "create:conductor": {
+  "createrailwaysnavigator:advanced_display": {
     "criteria": {
-      "0": "2025-03-16 00:52:42 +0000"
+      "requirement": "2025-03-16 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "create:display_link": {
+    "criteria": {
+      "0": "2025-03-16 02:29:38 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:nether/goblet": {
+    "criteria": {
+      "unlock": "2025-03-16 20:03:43 +0000"
+    },
+    "done": true
+  },
+  "create:track_signal": {
+    "criteria": {
+      "0": "2025-03-16 19:45:03 +0000"
     },
     "done": true
   },
