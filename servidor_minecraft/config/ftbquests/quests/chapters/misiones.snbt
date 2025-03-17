@@ -123,7 +123,22 @@
 			y: -0.5d
 		}
 		{
+			can_repeat: true
 			id: "0B5F6FB5B99F4400"
+			rewards: [{
+				count: 64
+				id: "75619126B2621DFB"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				entity: "minecraft:spider"
 				id: "42452D33C787F2E4"
@@ -144,12 +159,27 @@
 				id: "quark:dark_oak_chest"
 			}
 			id: "7C360A6AD9F08EA8"
+			rewards: [{
+				count: 64
+				id: "60264639B471C611"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
 			tasks: [{
 				advancement: "lootr:100loot"
 				criterion: ""
 				id: "2683DC9E9087A690"
 				type: "advancement"
 			}]
+			title: "Abrir cofres"
 			x: 0.0d
 			y: 1.5d
 		}

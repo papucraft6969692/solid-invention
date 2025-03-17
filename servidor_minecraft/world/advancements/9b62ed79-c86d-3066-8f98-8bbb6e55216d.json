@@ -563,15 +563,21 @@
     },
     "done": true
   },
+  "create:track_signal": {
+    "criteria": {
+      "0": "2025-03-16 19:45:03 +0000"
+    },
+    "done": true
+  },
   "supplementaries:nether/goblet": {
     "criteria": {
       "unlock": "2025-03-16 20:03:43 +0000"
     },
     "done": true
   },
-  "create:track_signal": {
+  "minecraft:husbandry/make_a_sign_glow": {
     "criteria": {
-      "0": "2025-03-16 19:45:03 +0000"
+      "make_a_sign_glow": "2025-03-16 23:10:54 +0000"
     },
     "done": true
   },
