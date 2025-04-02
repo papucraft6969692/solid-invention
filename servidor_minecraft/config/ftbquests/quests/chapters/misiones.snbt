@@ -215,13 +215,35 @@
 			y: -0.5d
 		}
 		{
+			description: [
+				"{image:papucraft:textures/quests/portal.png width:200 height:100 align:center}"
+				""
+				"La obsidiana del centro se coloca a lo último."
+			]
 			hide_text_until_complete: true
 			id: "61ADBB7D8AB0E410"
-			rewards: [{
-				id: "2E8F251F4A222455"
-				type: "xp_levels"
-				xp_levels: 3
-			}]
+			rewards: [
+				{
+					id: "2E8F251F4A222455"
+					type: "xp_levels"
+					xp_levels: 3
+				}
+				{
+					description: ""
+					icon: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "papucraft:esencia_del_papu"
+					}
+					id: "1FDAC90FCACFF282"
+					title: "Como entrar a la Papu Dimensión Alterna"
+					type: "toast"
+				}
+			]
 			tasks: [{
 				consume_items: true
 				id: "3361798F9C61266A"
