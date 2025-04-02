@@ -2006,6 +2006,51 @@
 			x: 7.5d
 			y: -2.5d
 		}
+		{
+			can_repeat: true
+			dependencies: ["37AAB5B4FE922E59"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "papucraft:extractor_de_momothium"
+			}
+			id: "5A06ABE8350C8B19"
+			rewards: [{
+				id: "22700B675B02DCF9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "papucraft:extractor_de_momothium"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 256L
+				id: "0FDD6B8201B7A498"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
+			title: "Extractor de Momothium"
+			x: -7.0d
+			y: 1.5d
+		}
 	]
 	title: "Tienda"
 }

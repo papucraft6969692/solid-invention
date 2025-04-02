@@ -1,5 +1,4 @@
 {
-	always_invisible: true
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
 	filename: "misiones"
@@ -182,6 +181,63 @@
 			title: "Abrir cofres"
 			x: 0.0d
 			y: 1.5d
+		}
+		{
+			can_repeat: true
+			id: "07D346BD9E3D8DE6"
+			rewards: [{
+				id: "34636A71CA4F01A3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "numismatics:sun"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "35EDF63BD7FF69BF"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "papucraft:esencia_del_papu"
+				}
+				type: "item"
+			}]
+			x: 4.0d
+			y: -0.5d
+		}
+		{
+			hide_text_until_complete: true
+			id: "61ADBB7D8AB0E410"
+			rewards: [{
+				id: "2E8F251F4A222455"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				consume_items: true
+				id: "3361798F9C61266A"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "papucraft:papu_conocimiento"
+				}
+				type: "item"
+			}]
+			x: -4.0d
+			y: -0.5d
 		}
 	]
 	title: "Misiones"
