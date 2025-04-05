@@ -19,20 +19,34 @@
 		{
 			can_repeat: true
 			id: "2C9EC4F3118926AF"
-			rewards: [{
-				count: 64
-				id: "538478F84A6BEE32"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					count: 64
+					id: "538478F84A6BEE32"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+				{
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "fancymenu:textures/contextmenu/context_menu_tooltip.png"
 						}
 					}
-					id: "numismatics:cog"
+					id: "0DC47BB588566318"
+					table_id: 6389696131270458106L
+					type: "random"
 				}
-				type: "item"
-			}]
+			]
 			tasks: [{
 				entity: "minecraft:zombie"
 				id: "0DFCA60A4FF03EBD"
@@ -45,20 +59,34 @@
 		{
 			can_repeat: true
 			id: "324AA03A231FBC5A"
-			rewards: [{
-				count: 64
-				id: "474E512CDB23C89A"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					count: 64
+					id: "474E512CDB23C89A"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+				{
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "fancymenu:textures/contextmenu/context_menu_tooltip.png"
 						}
 					}
-					id: "numismatics:cog"
+					id: "49E085A7226C76CA"
+					table_id: 6389696131270458106L
+					type: "random"
 				}
-				type: "item"
-			}]
+			]
 			tasks: [{
 				entity: "minecraft:skeleton"
 				id: "79A0E087BD5425AA"
@@ -71,20 +99,34 @@
 		{
 			can_repeat: true
 			id: "18C05FF6435B5183"
-			rewards: [{
-				count: 64
-				id: "1D57B6504116A8A4"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					count: 64
+					id: "1D57B6504116A8A4"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+				{
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "fancymenu:textures/contextmenu/context_menu_tooltip.png"
 						}
 					}
-					id: "numismatics:cog"
+					id: "2F90D7107659BBB6"
+					table_id: 6389696131270458106L
+					type: "random"
 				}
-				type: "item"
-			}]
+			]
 			tasks: [{
 				entity: "minecraft:creeper"
 				id: "22A93BD980B54B56"
@@ -124,20 +166,34 @@
 		{
 			can_repeat: true
 			id: "0B5F6FB5B99F4400"
-			rewards: [{
-				count: 64
-				id: "75619126B2621DFB"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					count: 64
+					id: "75619126B2621DFB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+				{
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "fancymenu:textures/contextmenu/context_menu_tooltip.png"
 						}
 					}
-					id: "numismatics:cog"
+					id: "0CD9F1D9B848A121"
+					table_id: 6389696131270458106L
+					type: "random"
 				}
-				type: "item"
-			}]
+			]
 			tasks: [{
 				entity: "minecraft:spider"
 				id: "42452D33C787F2E4"
@@ -158,20 +214,34 @@
 				id: "quark:dark_oak_chest"
 			}
 			id: "7C360A6AD9F08EA8"
-			rewards: [{
-				count: 64
-				id: "60264639B471C611"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					count: 64
+					id: "60264639B471C611"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:cog"
+					}
+					type: "item"
+				}
+				{
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "fancymenu:textures/contextmenu/context_menu_tooltip.png"
 						}
 					}
-					id: "numismatics:cog"
+					id: "3157565DC1686D7A"
+					table_id: 6389696131270458106L
+					type: "random"
 				}
-				type: "item"
-			}]
+			]
 			tasks: [{
 				advancement: "lootr:100loot"
 				criterion: ""
