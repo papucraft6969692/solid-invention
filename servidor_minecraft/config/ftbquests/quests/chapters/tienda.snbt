@@ -1043,11 +1043,10 @@
 						cs.aquaSkin: 0
 					}
 				}
-				id: "domesticationinnovation:collar_tag"
+				id: "minecraft:name_tag"
 			}
 			id: "5997E5F27DEA5F12"
 			rewards: [{
-				count: 8
 				id: "08B658E0B4F3CE9F"
 				item: {
 					Count: 1
@@ -1056,7 +1055,7 @@
 							cs.aquaSkin: 0
 						}
 					}
-					id: "domesticationinnovation:collar_tag"
+					id: "minecraft:name_tag"
 				}
 				type: "item"
 			}]
@@ -1075,7 +1074,7 @@
 				}
 				type: "item"
 			}]
-			title: "Collar"
+			title: "Etiqueta"
 			x: -3.5d
 			y: -4.5d
 		}
