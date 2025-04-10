@@ -230,17 +230,27 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-09 02:20:56 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-04-10 01:16:41 +0000",
       "minecraft:taiga": "2025-04-09 02:24:51 +0000",
       "minecraft:cherry_grove": "2025-03-11 01:59:33 +0000",
       "minecraft:sunflower_plains": "2025-04-09 02:15:15 +0000",
+      "minecraft:birch_forest": "2025-04-10 01:44:50 +0000",
       "environmental:environmental:blossom_woods": "2025-04-09 01:35:49 +0000",
+      "minecraft:dark_forest": "2025-04-10 01:35:16 +0000",
+      "environmental:environmental:old_growth_pine_barrens": "2025-04-10 01:19:55 +0000",
       "minecraft:river": "2025-03-11 01:07:51 +0000",
       "atmospheric:atmospheric:laurel_forest": "2025-03-11 01:44:25 +0000",
       "minecraft:stony_shore": "2025-04-09 02:18:22 +0000",
       "minecraft:grove": "2025-03-11 02:02:10 +0000",
       "minecraft:forest": "2025-03-11 01:08:13 +0000",
+      "minecraft:lush_caves": "2025-04-10 02:00:29 +0000",
+      "environmental:environmental:pine_barrens": "2025-04-10 01:59:48 +0000",
+      "atmospheric:atmospheric:aspen_parkland": "2025-04-10 01:34:39 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-10 02:07:46 +0000",
       "minecraft:flower_forest": "2025-04-09 02:13:44 +0000",
       "minecraft:frozen_peaks": "2025-03-11 02:02:41 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-10 01:35:30 +0000",
+      "minecraft:deep_dark": "2025-04-10 02:24:59 +0000",
       "minecraft:meadow": "2025-03-11 01:44:20 +0000",
       "minecraft:plains": "2025-03-11 01:07:20 +0000"
     },
@@ -356,10 +366,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "baked_potato": "2025-04-10 01:45:39 +0000",
       "salmon": "2025-04-09 02:14:56 +0000",
       "apple": "2025-03-11 01:34:34 +0000",
       "bread": "2025-03-11 01:36:03 +0000",
       "golden_apple": "2025-03-11 02:10:47 +0000",
+      "golden_carrot": "2025-04-10 01:49:55 +0000",
       "atmospheric:golden_dragon_fruit": "2025-04-09 01:36:11 +0000"
     },
     "done": false
@@ -379,7 +391,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-04-09 02:22:00 +0000",
-      "opened_chest": "2025-03-11 01:38:03 +0000"
+      "opened_chest": "2025-03-11 01:38:03 +0000",
+      "opened_cart": "2025-04-10 02:15:20 +0000"
     },
     "done": false
   },
@@ -423,8 +436,12 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-10 01:36:09 +0000",
       "minecraft:skeleton": "2025-03-11 02:03:26 +0000",
       "minecraft:spider": "2025-03-11 01:50:50 +0000",
+      "minecraft:creeper": "2025-04-10 02:10:24 +0000",
+      "minecraft:cave_spider": "2025-04-10 01:21:07 +0000",
+      "minecraft:stray": "2025-04-10 01:22:47 +0000",
       "minecraft:zombie": "2025-03-11 01:51:23 +0000"
     },
     "done": false
@@ -513,18 +530,6 @@
     },
     "done": true
   },
-  "lootr:10loot": {
-    "criteria": {
-      "loot_stat": "2025-04-09 02:22:06 +0000"
-    },
-    "done": true
-  },
-  "lootr:1barrel": {
-    "criteria": {
-      "opened_barrel": "2025-04-09 02:22:00 +0000"
-    },
-    "done": true
-  },
   "idas:enchantingtower": {
     "criteria": {
       "in_enchantingtower": "2025-04-09 02:19:22 +0000"
@@ -536,6 +541,114 @@
       "1": "2025-04-09 02:21:59 +0000"
     },
     "done": false
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-09 02:22:00 +0000"
+    },
+    "done": true
+  },
+  "lootr:10loot": {
+    "criteria": {
+      "loot_stat": "2025-04-09 02:22:06 +0000"
+    },
+    "done": true
+  },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-04-10 02:06:19 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bonk": {
+    "criteria": {
+      "bonk_0": "2025-04-10 01:57:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-10 01:53:32 +0000"
+    },
+    "done": true
+  },
+  "lootr:50loot": {
+    "criteria": {
+      "loot_stat": "2025-04-10 01:46:23 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-10 01:26:14 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_2": "2025-04-10 01:56:34 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-10 01:16:50 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-04-10 02:15:20 +0000"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2025-04-10 01:40:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-04-10 02:13:44 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-04-10 02:24:47 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dismantledto_bones": {
+    "criteria": {
+      "dismantledto_bones_0": "2025-04-10 01:30:23 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-10 01:37:08 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-04-10 02:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-10 02:14:40 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-04-10 02:18:31 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
