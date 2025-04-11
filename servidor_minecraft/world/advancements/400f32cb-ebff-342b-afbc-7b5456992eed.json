@@ -17,12 +17,6 @@
     },
     "done": true
   },
-  "createrailwaysnavigator:navigator": {
-    "criteria": {
-      "requirement": "2025-04-09 00:54:21 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_pink": {
     "criteria": {
       "has_the_recipe": "2025-04-09 00:49:23 +0000"
@@ -71,12 +65,6 @@
     },
     "done": true
   },
-  "supplementaries:nether/goblet": {
-    "criteria": {
-      "unlock": "2025-04-09 01:02:03 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_light_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-09 00:49:23 +0000"
@@ -113,18 +101,6 @@
     },
     "done": true
   },
-  "minecraft:story/upgrade_tools": {
-    "criteria": {
-      "stone_pickaxe": "2025-04-09 00:56:50 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/root": {
-    "criteria": {
-      "useitem": "2025-04-09 00:55:27 +0000"
-    },
-    "done": true
-  },
   "comforts:hammock_gray": {
     "criteria": {
       "has_the_recipe": "2025-04-09 00:49:23 +0000"
@@ -140,12 +116,6 @@
   "comforts:sleeping_bag_purple": {
     "criteria": {
       "has_the_recipe": "2025-04-09 00:49:23 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:teleportation/is_near_beehive": {
-    "criteria": {
-      "is_near_beehive": "2025-04-09 01:00:25 +0000"
     },
     "done": true
   },
@@ -227,12 +197,6 @@
     },
     "done": true
   },
-  "idas:tinkers_citadel": {
-    "criteria": {
-      "in_tinkers_citadel": "2025-04-09 00:50:41 +0000"
-    },
-    "done": true
-  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-04-09 00:49:23 +0000"
@@ -263,17 +227,6 @@
     },
     "done": true
   },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:birch_forest": "2025-04-09 01:00:55 +0000",
-      "minecraft:river": "2025-04-09 00:50:37 +0000",
-      "minecraft:forest": "2025-04-09 00:50:55 +0000",
-      "minecraft:ocean": "2025-04-09 00:50:58 +0000",
-      "minecraft:meadow": "2025-04-09 01:00:45 +0000",
-      "minecraft:plains": "2025-04-09 00:49:24 +0000"
-    },
-    "done": false
-  },
   "comforts:hammock_pink": {
     "criteria": {
       "has_the_recipe": "2025-04-09 00:49:23 +0000"
@@ -298,12 +251,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
-    "criteria": {
-      "bread": "2025-04-09 00:57:35 +0000"
-    },
-    "done": false
-  },
   "parcool:grant_parcool_guide": {
     "criteria": {
       "tick": "2025-04-09 00:49:23 +0000"
@@ -313,12 +260,6 @@
   "comforts:sleeping_bag_blue": {
     "criteria": {
       "has_the_recipe": "2025-04-09 00:49:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/root": {
-    "criteria": {
-      "consumed_item": "2025-04-09 00:55:27 +0000"
     },
     "done": true
   },
@@ -352,15 +293,197 @@
     },
     "done": true
   },
+  "comforts:hammock_orange": {
+    "criteria": {
+      "has_the_recipe": "2025-04-09 00:49:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:birch_forest": "2025-04-09 01:00:55 +0000",
+      "minecraft:beach": "2025-04-11 01:50:05 +0000",
+      "environmental:environmental:blossom_woods": "2025-04-11 01:22:20 +0000",
+      "minecraft:dark_forest": "2025-04-11 01:48:24 +0000",
+      "minecraft:river": "2025-04-09 00:50:37 +0000",
+      "atmospheric:atmospheric:laurel_forest": "2025-04-11 01:16:31 +0000",
+      "minecraft:stony_shore": "2025-04-11 01:35:28 +0000",
+      "minecraft:forest": "2025-04-09 00:50:55 +0000",
+      "minecraft:ocean": "2025-04-09 00:50:58 +0000",
+      "atmospheric:atmospheric:aspen_parkland": "2025-04-11 01:48:08 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-11 01:50:12 +0000",
+      "minecraft:meadow": "2025-04-09 01:00:45 +0000",
+      "minecraft:plains": "2025-04-09 00:49:24 +0000"
+    },
+    "done": false
+  },
+  "idas:tinkers_citadel": {
+    "criteria": {
+      "in_tinkers_citadel": "2025-04-09 00:50:41 +0000"
+    },
+    "done": true
+  },
+  "createrailwaysnavigator:navigator": {
+    "criteria": {
+      "requirement": "2025-04-09 00:54:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/root": {
+    "criteria": {
+      "useitem": "2025-04-09 00:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-04-09 00:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-09 00:56:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "bread": "2025-04-09 00:57:35 +0000",
+      "golden_carrot": "2025-04-11 00:58:36 +0000"
+    },
+    "done": false
+  },
   "idas:fishermans_lodge": {
     "criteria": {
       "in_fishermans_lodge": "2025-04-09 00:58:00 +0000"
     },
     "done": true
   },
-  "comforts:hammock_orange": {
+  "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
-      "has_the_recipe": "2025-04-09 00:49:23 +0000"
+      "is_near_beehive": "2025-04-09 01:00:25 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:nether/goblet": {
+    "criteria": {
+      "unlock": "2025-04-09 01:02:03 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:unitywith_darknessachievement": {
+    "criteria": {
+      "unitywith_darknessachievement_0": "2025-04-11 00:56:17 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2025-04-11 00:56:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/extinction_spear": {
+    "criteria": {
+      "dreadbow": "2025-04-11 00:56:49 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_root": {
+    "criteria": {
+      "requirement": "2025-04-11 00:59:36 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2025-04-11 00:59:36 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2025-04-11 01:00:46 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-04-11 01:00:55 +0000"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2025-04-11 01:56:16 +0000"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2025-04-11 01:20:37 +0000",
+      "opened_chest": "2025-04-11 01:56:16 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:lifeturnedouttobeacomedy": {
+    "criteria": {
+      "lifeturnedouttobeacomedy_0": "2025-04-11 01:24:49 +0000"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2025-04-11 01:20:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "onion": "2025-04-11 01:56:25 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-04-11 01:44:24 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_rotten": {
+    "criteria": {
+      "requirement": "2025-04-11 01:43:04 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/root": {
+    "criteria": {
+      "underground_cabin": "2025-04-11 01:20:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-11 01:24:49 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-11 01:52:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-11 01:20:39 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/root": {
+    "criteria": {
+      "killed_something": "2025-04-11 01:24:49 +0000"
     },
     "done": true
   },

@@ -73,25 +73,38 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "environmental:environmental:snowy_old_growth_pine_barrens": "2025-04-11 02:03:35 +0000",
       "minecraft:snowy_slopes": "2025-04-09 02:20:54 +0000",
       "minecraft:old_growth_pine_taiga": "2025-04-10 01:16:40 +0000",
       "minecraft:taiga": "2025-03-14 19:17:04 +0000",
+      "minecraft:frozen_river": "2025-04-11 02:03:07 +0000",
       "minecraft:cherry_grove": "2025-03-11 02:00:07 +0000",
       "minecraft:birch_forest": "2025-03-12 00:08:16 +0000",
+      "minecraft:wooded_badlands": "2025-04-11 02:09:10 +0000",
+      "atmospheric:atmospheric:rocky_dunes": "2025-04-11 02:08:41 +0000",
+      "minecraft:badlands": "2025-04-11 02:08:57 +0000",
       "environmental:environmental:blossom_woods": "2025-03-11 02:09:05 +0000",
       "minecraft:beach": "2025-03-13 21:52:33 +0000",
       "minecraft:dark_forest": "2025-04-10 01:35:16 +0000",
       "environmental:environmental:old_growth_pine_barrens": "2025-04-10 01:20:14 +0000",
+      "minecraft:sparse_jungle": "2025-04-11 02:20:13 +0000",
       "minecraft:river": "2025-03-11 00:51:08 +0000",
       "atmospheric:atmospheric:laurel_forest": "2025-03-11 01:44:24 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-11 02:20:34 +0000",
       "minecraft:stony_shore": "2025-03-13 21:17:51 +0000",
       "minecraft:snowy_plains": "2025-03-14 19:19:32 +0000",
       "minecraft:dripstone_caves": "2025-03-12 00:10:36 +0000",
       "minecraft:snowy_taiga": "2025-03-14 19:19:26 +0000",
+      "atmospheric:atmospheric:spiny_thicket": "2025-04-11 02:17:45 +0000",
+      "environmental:environmental:snowy_pine_barrens": "2025-04-11 02:03:07 +0000",
+      "atmospheric:atmospheric:rainforest_basin": "2025-04-11 02:19:02 +0000",
+      "atmospheric:atmospheric:rainforest": "2025-04-11 02:18:34 +0000",
       "minecraft:grove": "2025-03-11 02:04:18 +0000",
       "minecraft:forest": "2025-03-11 00:43:22 +0000",
+      "atmospheric:atmospheric:sparse_rainforest_basin": "2025-04-11 02:19:12 +0000",
       "minecraft:lush_caves": "2025-04-10 02:00:14 +0000",
       "environmental:environmental:pine_barrens": "2025-04-10 01:59:37 +0000",
+      "atmospheric:atmospheric:scrubland": "2025-04-11 02:08:20 +0000",
       "minecraft:ocean": "2025-03-13 21:18:11 +0000",
       "atmospheric:atmospheric:aspen_parkland": "2025-03-14 19:14:57 +0000",
       "minecraft:old_growth_spruce_taiga": "2025-04-10 02:07:23 +0000",
@@ -99,6 +112,7 @@
       "atmospheric:atmospheric:kousa_jungle": "2025-03-14 19:18:07 +0000",
       "minecraft:frozen_peaks": "2025-04-10 02:26:40 +0000",
       "minecraft:old_growth_birch_forest": "2025-03-12 00:07:22 +0000",
+      "atmospheric:atmospheric:dunes": "2025-04-11 02:08:46 +0000",
       "minecraft:deep_dark": "2025-03-11 02:18:24 +0000",
       "minecraft:meadow": "2025-03-11 01:44:22 +0000",
       "minecraft:plains": "2025-03-11 00:26:36 +0000"
@@ -205,7 +219,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-03-11 00:54:21 +0000",
-      "golden_apple": "2025-03-11 23:30:55 +0000"
+      "golden_apple": "2025-03-11 23:30:55 +0000",
+      "environmental:plum": "2025-04-11 01:58:44 +0000"
     },
     "done": false
   },
@@ -619,51 +634,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-04-10 02:43:32 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/murmur": {
-    "criteria": {
-      "killed_by": "2025-04-10 02:09:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/obtain_armor": {
-    "criteria": {
-      "iron_leggings": "2025-04-10 01:41:34 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
-    "criteria": {
-      "scroll_forge": "2025-04-10 02:44:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/deflect_arrow": {
     "criteria": {
       "deflected_projectile": "2025-04-10 01:23:03 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:double_trouble": {
-    "criteria": {
-      "double_trouble_0": "2025-04-10 02:12:41 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/root": {
-    "criteria": {
-      "lost_eye": "2025-04-10 02:33:04 +0000"
-    },
-    "done": true
-  },
-  "lootr:1cart": {
-    "criteria": {
-      "opened_cart": "2025-04-10 02:32:55 +0000"
     },
     "done": true
   },
@@ -673,15 +646,9 @@
     },
     "done": true
   },
-  "cataclysm:find_ancient_factory": {
+  "minecraft:story/obtain_armor": {
     "criteria": {
-      "factory": "2025-04-10 02:25:41 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:arachnophobes_nightmare": {
-    "criteria": {
-      "arachnophobes_nightmare_0": "2025-04-10 02:11:23 +0000"
+      "iron_leggings": "2025-04-10 01:41:34 +0000"
     },
     "done": true
   },
@@ -691,21 +658,105 @@
     },
     "done": true
   },
-  "lootr:100loot": {
-    "criteria": {
-      "loot_stat": "2025-04-10 02:33:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-04-10 01:53:06 +0000"
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/murmur": {
+    "criteria": {
+      "killed_by": "2025-04-10 02:09:00 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:arachnophobes_nightmare": {
+    "criteria": {
+      "arachnophobes_nightmare_0": "2025-04-10 02:11:23 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:double_trouble": {
+    "criteria": {
+      "double_trouble_0": "2025-04-10 02:12:41 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_ancient_factory": {
+    "criteria": {
+      "factory": "2025-04-10 02:25:41 +0000"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-04-10 02:32:55 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2025-04-10 02:33:04 +0000"
+    },
+    "done": true
+  },
   "endrem:main/lost_eye": {
     "criteria": {
       "lost_eye": "2025-04-10 02:33:04 +0000"
+    },
+    "done": true
+  },
+  "lootr:100loot": {
+    "criteria": {
+      "loot_stat": "2025-04-10 02:33:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-10 02:43:32 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-04-10 02:44:29 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/staff_artificer": {
+    "criteria": {
+      "requirement": "2025-04-11 00:59:00 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_netherite": {
+    "criteria": {
+      "requirement": "2025-04-11 00:59:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-11 01:14:08 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-11 01:19:35 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:junior_summoner": {
+    "criteria": {
+      "junior_summoner_0": "2025-04-11 01:27:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "interact": "2025-04-11 02:00:49 +0000"
     },
     "done": true
   },
