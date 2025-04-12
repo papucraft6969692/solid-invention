@@ -1061,7 +1061,7 @@
 			}]
 			tasks: [{
 				consume_items: true
-				count: 128L
+				count: 32L
 				id: "13AA57E25E714C13"
 				item: {
 					Count: 1
@@ -2049,6 +2049,51 @@
 			title: "Extractor de Momothium"
 			x: -7.0d
 			y: 1.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["18CA9F2BDC582DB0"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "waystones:waystone"
+			}
+			id: "06527C1D36B82157"
+			rewards: [{
+				id: "5FEEBAB18209F546"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "waystones:waystone"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 128L
+				id: "5841EE45A4BB75F3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
+			title: "Waystone"
+			x: -6.5d
+			y: -4.5d
 		}
 	]
 	title: "Tienda"

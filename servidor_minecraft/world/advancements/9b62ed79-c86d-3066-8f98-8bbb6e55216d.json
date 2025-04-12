@@ -182,11 +182,15 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-03-13 21:04:36 +0000",
+      "minecraft:blaze": "2025-04-12 00:34:58 +0000",
       "minecraft:skeleton": "2025-03-11 23:12:26 +0000",
+      "minecraft:hoglin": "2025-04-12 00:32:56 +0000",
       "minecraft:vindicator": "2025-03-13 21:04:56 +0000",
       "minecraft:spider": "2025-03-11 01:57:20 +0000",
+      "minecraft:piglin_brute": "2025-04-12 00:30:02 +0000",
       "minecraft:creeper": "2025-03-11 23:07:54 +0000",
       "minecraft:phantom": "2025-03-13 22:49:54 +0000",
+      "minecraft:zombified_piglin": "2025-04-12 00:37:34 +0000",
       "minecraft:witch": "2025-04-10 02:13:10 +0000",
       "minecraft:cave_spider": "2025-04-10 01:20:07 +0000",
       "minecraft:enderman": "2025-03-11 00:53:11 +0000",
@@ -312,7 +316,8 @@
   },
   "biomancy:biomancy/raw_meat_collection": {
     "criteria": {
-      "has_raw_beef": "2025-03-11 01:42:56 +0000"
+      "has_raw_beef": "2025-03-11 01:42:56 +0000",
+      "has_raw_porkchop": "2025-04-12 00:29:42 +0000"
     },
     "done": false
   },
@@ -504,7 +509,10 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:nether_wastes": "2025-03-14 18:45:47 +0000"
+      "minecraft:crimson_forest": "2025-04-12 00:33:35 +0000",
+      "minecraft:nether_wastes": "2025-03-14 18:45:47 +0000",
+      "minecraft:basalt_deltas": "2025-04-12 00:14:41 +0000",
+      "minecraft:warped_forest": "2025-04-12 00:24:16 +0000"
     },
     "done": false
   },
@@ -757,6 +765,84 @@
   "alexsmobs:alexsmobs/banana_slug": {
     "criteria": {
       "interact": "2025-04-11 02:00:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_fd_seed": {
+    "criteria": {
+      "cabbage_seeds": "2025-04-11 23:23:15 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-12 00:48:20 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-04-12 00:16:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-12 00:14:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-04-12 00:30:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-12 00:14:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-04-12 00:15:37 +0000"
+    },
+    "done": true
+  },
+  "idas:nexus": {
+    "criteria": {
+      "in_nexus": "2025-04-12 01:10:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-04-12 00:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-12 00:24:38 +0000"
+    },
+    "done": true
+  },
+  "nethers_exoticism:rambutan_adv": {
+    "criteria": {
+      "rambutan_adv": "2025-04-12 00:30:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-12 00:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2025-04-12 00:34:23 +0000"
     },
     "done": true
   },
