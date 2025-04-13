@@ -1,287 +1,228 @@
-[12Apr2025 00:00:34.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
-[12Apr2025 00:03:09.918] [ForkJoinPool.commonPool-worker-5/WARN] [SkinRestorer/]: Failed to fetch skin: not found
-[12Apr2025 00:03:10.006] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PandoroEficiente[/127.241.103.31:57283] logged in with entity id 3839 at (711.629301479463, 62.0, 169.18877438445782)
-[12Apr2025 00:03:10.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente joined the game
-[12Apr2025 00:03:10.918] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PandoroEficiente (18)
-[12Apr2025 00:03:10.918] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PandoroEficiente
-[12Apr2025 00:03:10.920] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ad71574e-8a77-3b78-8d86-bc60e6534bd3 was loaded
-[12Apr2025 00:03:20.752] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player ad71574e-8a77-3b78-8d86-bc60e6534bd3
-[12Apr2025 00:03:21.748] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player ad71574e-8a77-3b78-8d86-bc60e6534bd3
-[12Apr2025 00:03:21.749] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player PandoroEficiente (ad71574e-8a77-3b78-8d86-bc60e6534bd3) successfully connected to voice chat
-[12Apr2025 00:04:06.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 00:04:18.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Set own game mode to Survival Mode]
-[12Apr2025 00:04:42.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Set own game mode to Creative Mode]
-[12Apr2025 00:05:34.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has reached the goal [Horror of the Depths]
-[12Apr2025 00:06:57.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [Hot Stuff]
-[12Apr2025 00:07:50.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [Good Demoman]
-[12Apr2025 00:08:28.037] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Set own game mode to Survival Mode]
-[12Apr2025 00:11:25.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Set own game mode to Creative Mode]
-[12Apr2025 00:11:48.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has made the advancement [Isn't It Iron Pick]
-[12Apr2025 00:12:04.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PAPU SUPREMO] ElPerejil24 to [PACMAN] Ana_]
-[12Apr2025 00:12:52.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Set own game mode to Survival Mode]
-[12Apr2025 00:13:40.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Killed Lifestealer]
-[12Apr2025 00:14:00.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
-[12Apr2025 00:14:03.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
-[12Apr2025 00:14:15.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
-[12Apr2025 00:14:35.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [We Need to Go Deeper]
-[12Apr2025 00:14:37.097] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4752ms or 95 ticks behind
-[12Apr2025 00:14:39.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has made the advancement [We Need to Go Deeper]
-[12Apr2025 00:14:41.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 has made the advancement [We Need to Go Deeper]
-[12Apr2025 00:14:41.352] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[12Apr2025 00:14:41.364] [Worker-Main-3/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
-[12Apr2025 00:15:37.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 has made the advancement [Straddle My Ol' Saddle]
-[12Apr2025 00:16:39.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [The Soul Forge]
-[12Apr2025 00:16:53.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has made the advancement [The Soul Forge]
-[12Apr2025 00:16:54.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 has made the advancement [The Soul Forge]
-[12Apr2025 00:18:36.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Teleported [PACMAN] PandoroEficiente to [PACMAN] Ana_]
-[12Apr2025 00:19:51.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 tried to swim in lava to escape Netherite Monstrosity
-[12Apr2025 00:19:59.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Set own game mode to Spectator Mode]
-[12Apr2025 00:20:07.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PAPU SUPREMO] ElPerejil24 to [PACMAN] Ana_]
-[12Apr2025 00:20:41.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Set own game mode to Survival Mode]
-[12Apr2025 00:20:57.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
-[12Apr2025 00:21:06.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Spectator Mode]
-[12Apr2025 00:21:11.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
-[12Apr2025 00:21:44.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PAPU SUPREMO] ElPerejil24 to [PACMAN] Ana_]
-[12Apr2025 00:21:49.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
-[12Apr2025 00:22:53.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Teleported [PACMAN] PandoroEficiente to [PAPU SUPREMO] ElPerejil24]
-[12Apr2025 00:23:42.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PAPU SUPREMO] ElPerejil24 to [PACMAN] PandoroEficiente]
-[12Apr2025 00:23:44.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 00:24:30.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [Those Were the Days]
-[12Apr2025 00:24:32.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has made the advancement [Those Were the Days]
-[12Apr2025 00:24:38.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 has made the advancement [Those Were the Days]
-[12Apr2025 00:24:47.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PAPU SUPREMO] ElPerejil24 to [PACMAN] PandoroEficiente]
-[12Apr2025 00:24:58.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 00:25:31.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [War Pigs]
-[12Apr2025 00:25:31.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has made the advancement [War Pigs]
-[12Apr2025 00:25:31.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has made the advancement [Disme A Dozen]
-[12Apr2025 00:25:33.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 has made the advancement [War Pigs]
-[12Apr2025 00:26:00.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has made the advancement [Who is Cutting Onions?]
-[12Apr2025 00:26:18.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 00:26:59.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has made the advancement [Ice Bucket Challenge]
-[12Apr2025 00:27:01.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [Hidden in the Depths]
-[12Apr2025 00:27:02.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 has made the advancement [Hidden in the Depths]
-[12Apr2025 00:27:07.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [Who is Cutting Onions?]
-[12Apr2025 00:27:41.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has reached the goal [New Age Librarian]
-[12Apr2025 00:28:31.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Set own game mode to Spectator Mode]
-[12Apr2025 00:28:39.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Scroll Forge] to [PAPU SUPREMO] ElPerejil24]
-[12Apr2025 00:28:54.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Set own game mode to Survival Mode]
-[12Apr2025 00:29:04.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 00:29:04.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PAPU SUPREMO] ElPerejil24 to [PACMAN] PandoroEficiente]
-[12Apr2025 00:30:04.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [Horned Melon?]
-[12Apr2025 00:30:08.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has made the advancement [Monster Hunter]
-[12Apr2025 00:30:52.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 has made the advancement [Thorn Again]
-[12Apr2025 00:31:07.720] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [Thorn Again]
-[12Apr2025 00:32:17.567] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:17.663] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:17.764] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:17.860] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:17.964] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:18.065] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:18.164] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:18.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:18.362] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:18.461] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:18.560] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:18.663] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:18.762] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:18.861] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:18.961] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:19.064] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:19.163] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:19.264] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:19.363] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:19.462] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:19.564] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:19.662] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:19.761] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:19.862] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:19.965] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:20.067] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[12Apr2025 00:32:40.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 00:33:03.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PAPU SUPREMO] ElPerejil24 to [PACMAN] PandoroEficiente]
-[12Apr2025 00:34:00.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 00:34:10.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [A Terrible Fortress]
-[12Apr2025 00:34:13.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has made the advancement [A Terrible Fortress]
-[12Apr2025 00:34:23.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PAPU SUPREMO] ElPerejil24 to [PACMAN] PandoroEficiente]
-[12Apr2025 00:34:23.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 has made the advancement [A Terrible Fortress]
-[12Apr2025 00:35:23.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [Spooky Scary Skeleton]
-[12Apr2025 00:35:54.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 00:36:44.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 00:36:57.714] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [Into Fire]
-[12Apr2025 00:36:57.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [Defunct Machinery]
-[12Apr2025 00:37:27.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has made the advancement [Ol' Betsy]
-[12Apr2025 00:38:22.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has made the advancement [Take Aim]
-[12Apr2025 00:39:14.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PAPU SUPREMO] ElPerejil24 to [PACMAN] PandoroEficiente]
-[12Apr2025 00:39:18.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [Ol' Betsy]
-[12Apr2025 00:39:18.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [Take Aim]
-[12Apr2025 00:43:10.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Set own game mode to Spectator Mode]
-[12Apr2025 00:43:19.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Set own game mode to Survival Mode]
-[12Apr2025 00:45:26.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 00:47:01.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [Nightmare Fuel]
-[12Apr2025 00:47:25.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PAPU SUPREMO] ElPerejil24 to [PACMAN] PandoroEficiente]
-[12Apr2025 00:47:26.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 burned to death
-[12Apr2025 00:47:37.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Spectator Mode]
-[12Apr2025 00:47:38.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PAPU SUPREMO] ElPerejil24 to [PACMAN] PandoroEficiente]
-[12Apr2025 00:47:48.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has made the advancement [Nightmare Fuel]
-[12Apr2025 00:48:15.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
-[12Apr2025 00:48:20.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 has made the advancement [Nightmare Fuel]
-[12Apr2025 00:48:31.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PAPU SUPREMO] ElPerejil24]
-[12Apr2025 00:50:07.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 00:50:11.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PAPU SUPREMO] ElPerejil24 to [PACMAN] PandoroEficiente]
-[12Apr2025 00:51:40.658] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8463ms or 169 ticks behind
-[12Apr2025 00:52:13.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 00:53:36.680] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[12Apr2025 00:53:36.686] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
-[12Apr2025 00:53:56.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has made the advancement [Not Today, Thank You]
-[12Apr2025 00:55:20.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [Deceived Hopes]
-[12Apr2025 00:56:17.824] [Server thread/INFO] [Easy NPC/]: Creating backup folder 2025-04-12 at /workspaces/solid-invention/servidor_minecraft/easy_npc/backup ...
-[12Apr2025 00:58:02.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has made the advancement [Deceived Hopes]
-[12Apr2025 00:58:14.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PAPU SUPREMO] ElPerejil24]
-[12Apr2025 00:59:05.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PAPU SUPREMO] ElPerejil24]
-[12Apr2025 00:59:35.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has made the advancement [Once Upon a Cave]
-[12Apr2025 01:00:17.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 01:01:04.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PAPU SUPREMO] ElPerejil24 to [PACMAN] PandoroEficiente]
-[12Apr2025 01:05:26.040] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
-[12Apr2025 01:05:26.041] [Worker-Main-4/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
-[12Apr2025 01:05:32.248] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
-[12Apr2025 01:05:32.248] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
-[12Apr2025 01:05:45.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has completed the challenge [The Nexus]
-[12Apr2025 01:06:29.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 01:06:32.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has made the advancement [Tunnel Treasures]
-[12Apr2025 01:07:57.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has completed the challenge [The Nexus]
-[12Apr2025 01:08:16.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PAPU SUPREMO] ElPerejil24 to [PACMAN] PandoroEficiente]
-[12Apr2025 01:08:32.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 01:09:20.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Set own game mode to Spectator Mode]
-[12Apr2025 01:09:34.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Set own game mode to Survival Mode]
-[12Apr2025 01:09:55.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 01:10:11.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 has completed the challenge [The Nexus]
-[12Apr2025 01:10:42.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Set own game mode to Spectator Mode]
-[12Apr2025 01:11:10.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Set own game mode to Survival Mode]
-[12Apr2025 01:11:11.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PAPU SUPREMO] ElPerejil24 to [PACMAN] PandoroEficiente]
-[12Apr2025 01:11:22.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 01:11:31.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PAPU SUPREMO] ElPerejil24]
-[12Apr2025 01:14:36.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Set own game mode to Spectator Mode]
-[12Apr2025 01:14:54.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Set own game mode to Survival Mode]
-[12Apr2025 01:15:04.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PAPU SUPREMO] ElPerejil24 to [PACMAN] PandoroEficiente]
-[12Apr2025 01:15:09.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] Ana_: Teleported [PACMAN] Ana_ to [PACMAN] PandoroEficiente]
-[12Apr2025 01:15:32.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ has made the advancement [Close Quarters]
-[12Apr2025 01:16:03.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Set own game mode to Spectator Mode]
-[12Apr2025 01:16:07.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Spectator Mode]
-[12Apr2025 01:16:15.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Set own game mode to Survival Mode]
-[12Apr2025 01:16:18.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
-[12Apr2025 01:16:25.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Set own game mode to Spectator Mode]
-[12Apr2025 01:16:38.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PACMAN] PandoroEficiente: Set own game mode to Survival Mode]
-[12Apr2025 01:16:42.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Spectator Mode]
-[12Apr2025 01:16:42.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente has completed the challenge [Centennial]
-[12Apr2025 01:16:59.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PACMAN] Ana_ to [PAPU SUPREMO] ElPerejil24]
-[12Apr2025 01:17:02.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
-[12Apr2025 01:17:09.578] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PandoroEficiente lost connection: Disconnected
-[12Apr2025 01:17:09.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] PandoroEficiente left the game
-[12Apr2025 01:17:09.579] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of ad71574e-8a77-3b78-8d86-bc60e6534bd3 was unloaded
-[12Apr2025 01:17:09.579] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PandoroEficiente
-[12Apr2025 01:18:03.218] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ana_ lost connection: Disconnected
-[12Apr2025 01:18:03.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PACMAN] Ana_ left the game
-[12Apr2025 01:18:03.218] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 400f32cb-ebff-342b-afbc-7b5456992eed was unloaded
-[12Apr2025 01:18:03.219] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Ana_
-[12Apr2025 01:18:59.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElPerejil24 lost connection: Disconnected
-[12Apr2025 01:18:59.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 left the game
-[12Apr2025 01:18:59.766] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9b62ed79-c86d-3066-8f98-8bbb6e55216d was unloaded
-[12Apr2025 01:18:59.766] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElPerejil24
-[12Apr2025 01:19:08.545] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Stopping train listener...
-[12Apr2025 01:19:08.545] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Stopping Advanced Display Data Manager...
-[12Apr2025 01:19:08.546] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All events have been closed.
-[12Apr2025 01:19:08.550] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.550] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.551] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.551] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.551] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.551] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.551] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.551] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.551] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.551] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.551] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.551] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[12Apr2025 01:19:08.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[12Apr2025 01:19:08.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[12Apr2025 01:19:08.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12Apr2025 01:19:08.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/papucraft:papu_dimension_alterna
-[12Apr2025 01:19:08.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[12Apr2025 01:19:08.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
-[12Apr2025 01:19:08.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[12Apr2025 01:19:08.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12Apr2025 01:19:08.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (papu_dimension_alterna): All chunks are saved
-[12Apr2025 01:19:08.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12Apr2025 01:19:08.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
-[12Apr2025 01:19:08.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12Apr2025 01:19:08.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[12Apr2025 01:19:08.856] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.857] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.857] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.857] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.857] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.857] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.857] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.857] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.857] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.857] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.857] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.857] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.926] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.926] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.926] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.926] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.926] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.926] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.926] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.926] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.926] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.926] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.926] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.926] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.926] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.927] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.927] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.927] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.927] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.927] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.927] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.927] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.927] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.927] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.927] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.927] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.938] [CRN Train Listener/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Train listener has been stopped.
-[12Apr2025 01:19:08.963] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.963] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.963] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.963] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.963] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.963] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.963] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.963] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.963] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.963] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.963] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.963] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.964] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.964] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.964] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.964] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.964] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.964] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.964] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.964] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.964] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.964] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.964] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.965] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
-[12Apr2025 01:19:08.968] [Server thread/INFO] [DragonLib/]: Stopping DragonLib Network Manager (Server) worker thread...
-[12Apr2025 01:19:08.968] [DragonLib Network Manager (Server)/INFO] [DragonLib/]: DragonLib Network Manager (Server) worker thread has been stopped!
-[12Apr2025 01:19:08.969] [Server thread/INFO] [Framework/]: Unloading server configs...
-[12Apr2025 01:19:08.970] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
-[12Apr2025 01:19:08.973] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
-[12Apr2025 01:19:08.973] [Server thread/INFO] [Framework/]: Finished unloading server configs
-[12Apr2025 01:19:08.978] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
-[12Apr2025 01:19:08.978] [Advanced Display Data Manager/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Advanced Display Data Manager has been stopped.
+[13Apr2025 00:04:06.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 64 [Sun] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 00:05:24.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 64 [Common Ink] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 00:09:53.089] [Server thread/INFO] [com.simibubi.create.Create/]: New Schematic Uploaded: ElPerejil24/base.nbt
+[13Apr2025 00:19:17.726] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:pyromancer_tower took 65 ms
+[13Apr2025 00:24:16.064] [Worker-Main-18/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[13Apr2025 00:27:18.238] [Worker-Main-9/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[13Apr2025 00:27:40.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElPerejil24 moved too quickly! -5.508706051079116,1.7508129212553172,-8.210459943633964
+[13Apr2025 00:31:22.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Spectator Mode]
+[13Apr2025 00:31:47.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 00:31:58.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Spectator Mode]
+[13Apr2025 00:32:09.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 00:36:04.367] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Spectator Mode]
+[13Apr2025 00:36:24.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 00:37:54.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 has made the advancement [Into Fire]
+[13Apr2025 00:38:32.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Spectator Mode]
+[13Apr2025 00:38:42.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 00:39:43.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Spectator Mode]
+[13Apr2025 00:39:49.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 00:41:07.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Spectator Mode]
+[13Apr2025 00:41:22.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 00:41:29.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Spectator Mode]
+[13Apr2025 00:41:41.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 00:41:58.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Spectator Mode]
+[13Apr2025 00:42:00.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
+[13Apr2025 00:42:20.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Spectator Mode]
+[13Apr2025 00:42:21.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
+[13Apr2025 00:42:22.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 00:42:26.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
+[13Apr2025 00:42:44.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 has completed the challenge [Premium!]
+[13Apr2025 00:42:57.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 00:49:40.957] [Server thread/INFO] [Easy NPC/]: Creating backup folder 2025-04-13 at /workspaces/solid-invention/servidor_minecraft/easy_npc/backup ...
+[13Apr2025 00:58:25.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 64 [Block of Amethyst] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:00:30.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 has completed the challenge [It's Purple!]
+[13Apr2025 01:02:00.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
+[13Apr2025 01:02:17.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 has made the advancement [Gotta work, bees!]
+[13Apr2025 01:02:40.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Advanced Blossom Beehive] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:02:43.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Advanced Azalea Beehive] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:02:44.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Advanced Bamboo Beehive] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:02:46.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Advanced Cherry Beehive] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:02:48.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Advanced Crimson Beehive] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:02:52.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Advanced Birch Beehive] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:02:54.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Advanced Oak Beehive] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:02:56.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Advanced Acacia Beehive] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:02:58.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Advanced Warped Beehive] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:03:00.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Advanced Jungle Beehive] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:03:01.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Advanced Dark Oak Beehive] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:03:04.004] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Advanced Mangrove Beehive] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:03:05.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Advanced Snake Block Beehive] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:03:07.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Advanced Spruce Beehive] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:13.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Wisteria Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:14.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Rosewood Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:16.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Kousa Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:17.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Grimwood Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:19.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Yucca Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:20.752] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Aspen Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:22.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Morado Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:23.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Poise Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:24.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Blossom Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:26.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Azalea Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:28.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Bamboo Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:29.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Cherry Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:31.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Crimson Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:33.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Birch Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:34.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Oak Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:36.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Acacia Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:37.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Warped Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:38.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Jungle Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:40.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Dark Oak Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:43.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Mangrove Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:44.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Snake Block Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:04:46.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Spruce Expansion Box] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:06:41.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 01:13:59.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
+[13Apr2025 01:14:00.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Spectator Mode]
+[13Apr2025 01:14:07.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
+[13Apr2025 01:14:31.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 01:15:29.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Wheat] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:15:30.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Wheat] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:15:46.257] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 has made the advancement [The Parrots and the Bats]
+[13Apr2025 01:17:54.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Loaded template "irons_spellbooks:priest_house" at 1346, 64, 1252]
+[13Apr2025 01:17:58.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
+[13Apr2025 01:18:07.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 01:18:24.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 64 [Emerald] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:19:27.000] [Worker-Main-4/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[13Apr2025 01:19:55.263] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element irons_spellbooks:evoker_fort took 0 ms
+[13Apr2025 01:20:02.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Spectator Mode]
+[13Apr2025 01:20:12.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Teleported [PAPU SUPREMO] ElPerejil24 to -1279.500000, 63.000000, -1103.500000]
+[13Apr2025 01:20:12.554] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 8564ms or 171 ticks behind
+[13Apr2025 01:20:27.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
+[13Apr2025 01:20:53.147] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElPerejil24 moved too quickly! 6.028597007895087,1.0013359791121417,8.033951683275063
+[13Apr2025 01:20:53.153] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 25113ms or 502 ticks behind
+[13Apr2025 01:21:11.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 01:21:35.718] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2079ms or 41 ticks behind
+[13Apr2025 01:27:33.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
+[13Apr2025 01:29:09.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Spectator Mode]
+[13Apr2025 01:29:15.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
+[13Apr2025 01:31:12.522] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 01:32:38.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Shriving Stone] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 01:36:41.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Summoned new doxeo]
+[13Apr2025 01:36:59.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 has made the advancement [I SAID DART GUN!]
+[13Apr2025 02:04:41.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
+[13Apr2025 02:05:50.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Successfully filled 181 block(s)]
+[13Apr2025 02:05:52.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 02:13:34.863] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 9b62ed79-c86d-3066-8f98-8bbb6e55216d timed out
+[13Apr2025 02:13:34.864] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player ElPerejil24
+[13Apr2025 02:13:34.864] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to ElPerejil24
+[13Apr2025 02:13:51.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 9b62ed79-c86d-3066-8f98-8bbb6e55216d
+[13Apr2025 02:13:52.261] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 9b62ed79-c86d-3066-8f98-8bbb6e55216d
+[13Apr2025 02:13:52.262] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player ElPerejil24 (9b62ed79-c86d-3066-8f98-8bbb6e55216d) successfully connected to voice chat
+[13Apr2025 02:14:56.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
+[13Apr2025 02:15:12.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 02:18:58.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Clipboard] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 02:20:49.505] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5116ms or 102 ticks behind
+[13Apr2025 02:23:27.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Gave 1 [Cornflower] to [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 02:23:35.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 has made the advancement [Catchy]
+[13Apr2025 02:26:29.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
+[13Apr2025 02:26:37.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Removed every effect from [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 02:26:38.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 02:28:10.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
+[13Apr2025 02:28:11.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Removed every effect from [PAPU SUPREMO] ElPerejil24]
+[13Apr2025 02:28:15.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 02:30:25.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
+[13Apr2025 02:30:35.279] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 02:30:53.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Creative Mode]
+[13Apr2025 02:32:36.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [[PAPU SUPREMO] ElPerejil24: Set own game mode to Survival Mode]
+[13Apr2025 02:32:58.784] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3145ms or 62 ticks behind
+[13Apr2025 02:33:13.158] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElPerejil24 lost connection: Disconnected
+[13Apr2025 02:33:13.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PAPU SUPREMO] ElPerejil24 left the game
+[13Apr2025 02:33:13.160] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 9b62ed79-c86d-3066-8f98-8bbb6e55216d was unloaded
+[13Apr2025 02:33:13.161] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client ElPerejil24
+[13Apr2025 02:33:20.989] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Stopping train listener...
+[13Apr2025 02:33:20.989] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Stopping Advanced Display Data Manager...
+[13Apr2025 02:33:20.990] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All events have been closed.
+[13Apr2025 02:33:20.994] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:20.994] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:20.994] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:20.994] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:20.994] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:20.994] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:20.994] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:20.994] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:20.994] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:20.994] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:20.994] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:20.995] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:20.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[13Apr2025 02:33:20.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[13Apr2025 02:33:20.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[13Apr2025 02:33:21.055] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13Apr2025 02:33:21.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/the_bumblezone:the_bumblezone
+[13Apr2025 02:33:21.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/papucraft:papu_dimension_alterna
+[13Apr2025 02:33:21.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13Apr2025 02:33:21.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13Apr2025 02:33:21.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13Apr2025 02:33:21.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_bumblezone): All chunks are saved
+[13Apr2025 02:33:21.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (papu_dimension_alterna): All chunks are saved
+[13Apr2025 02:33:21.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13Apr2025 02:33:21.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13Apr2025 02:33:21.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[13Apr2025 02:33:21.265] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.265] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.266] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.266] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.266] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.266] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.266] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.266] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.266] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.266] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.266] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.266] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.402] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.402] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.402] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.402] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.402] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.402] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.402] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.402] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.402] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.402] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.402] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.403] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.427] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.427] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.427] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.427] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.427] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.427] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.427] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.427] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.428] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.428] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.428] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.428] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.428] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.428] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.428] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.428] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.428] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.428] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.428] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.428] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.428] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.428] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.428] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.428] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.429] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.boss_randomizer from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.429] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.igniter from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.429] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.engineer from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.429] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.twittollager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.429] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.magispeller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.429] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.spiritcaller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.429] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.crocofang from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.429] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.absorber from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.429] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.preserver from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.429] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.freakager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.429] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_freakager from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.429] [Server thread/INFO] [com.yellowbrossproductions.illageandspillage.IllageAndSpillage/]: Removed entity.illageandspillage.old_magispeller from Raids to prevent a post-mod-removal crash
+[13Apr2025 02:33:21.444] [Server thread/INFO] [DragonLib/]: Stopping DragonLib Network Manager (Server) worker thread...
+[13Apr2025 02:33:21.444] [DragonLib Network Manager (Server)/INFO] [DragonLib/]: DragonLib Network Manager (Server) worker thread has been stopped!
+[13Apr2025 02:33:21.445] [Server thread/INFO] [Framework/]: Unloading server configs...
+[13Apr2025 02:33:21.446] [Server thread/INFO] [Framework/]: Sending config unload event for refurbished_furniture.server.toml
+[13Apr2025 02:33:21.448] [Server thread/INFO] [Framework/]: Sending config unload event for goblintraders-entities.toml
+[13Apr2025 02:33:21.448] [Server thread/INFO] [Framework/]: Finished unloading server configs
+[13Apr2025 02:33:21.451] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
+[13Apr2025 02:33:21.876] [Advanced Display Data Manager/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Advanced Display Data Manager has been stopped.
+[13Apr2025 02:33:21.881] [CRN Train Listener/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Train listener has been stopped.

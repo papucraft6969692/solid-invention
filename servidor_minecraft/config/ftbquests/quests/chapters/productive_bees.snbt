@@ -131,6 +131,15 @@
 				type: "item"
 			}]
 			tasks: [{
+				icon: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "productivebees:advanced_oak_beehive"
+				}
 				id: "18DA690920278245"
 				item: {
 					Count: 1
@@ -141,6 +150,7 @@
 					}
 					id: "productivebees:advanced_oak_beehive"
 				}
+				match_nbt: false
 				type: "item"
 			}]
 			title: "Apiario avanzado"

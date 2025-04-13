@@ -1382,7 +1382,7 @@
 			}]
 			tasks: [{
 				consume_items: true
-				count: 96L
+				count: 64L
 				id: "7C48A67BBEFD1A82"
 				item: {
 					Count: 1
@@ -1427,7 +1427,7 @@
 			}]
 			tasks: [{
 				consume_items: true
-				count: 64L
+				count: 16L
 				id: "1FA851E06EA7544C"
 				item: {
 					Count: 1
@@ -2092,8 +2092,53 @@
 				type: "item"
 			}]
 			title: "Waystone"
+			x: -5.0d
+			y: -5.5d
+		}
+		{
+			can_repeat: true
+			dependencies: ["18CA9F2BDC582DB0"]
+			icon: {
+				Count: 1
+				ForgeCaps: {
+					"celestisynth:celestisynthitemstackcapabilities": {
+						cs.aquaSkin: 0
+					}
+				}
+				id: "numismatics:vendor"
+			}
+			id: "3970E1C7A7057049"
+			rewards: [{
+				id: "01802916A6939F0D"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "numismatics:vendor"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 96L
+				id: "66DC55512F3243C9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
+			title: "Tienda"
 			x: -6.5d
-			y: -4.5d
+			y: -2.5d
 		}
 	]
 	title: "Tienda"

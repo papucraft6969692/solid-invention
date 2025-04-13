@@ -17,7 +17,9 @@
     "quark:stoneling",
     "quark:forgotten",
     "born_in_chaos_v1:nightmare_stalker",
-    "born_in_chaos_v1:skeleton_thrasher"
+    "born_in_chaos_v1:skeleton_thrasher",
+    "born_in_chaos_v1:lifestealer",
+    "sons_of_sins:betrayed_guzzler"
   ],
   // Don't touch this!
   "CONFIG_VERSION": 1

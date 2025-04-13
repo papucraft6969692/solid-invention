@@ -774,27 +774,9 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-04-12 00:48:20 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2025-04-12 00:16:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/root": {
     "criteria": {
       "entered_nether": "2025-04-12 00:14:41 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/get_ham": {
-    "criteria": {
-      "ham": "2025-04-12 00:30:24 +0000"
     },
     "done": true
   },
@@ -810,15 +792,9 @@
     },
     "done": true
   },
-  "idas:nexus": {
+  "cataclysm:find_soul_black_smith": {
     "criteria": {
-      "in_nexus": "2025-04-12 01:10:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/loot_bastion": {
-    "criteria": {
-      "loot_bastion_other": "2025-04-12 00:25:33 +0000"
+      "blacksmith": "2025-04-12 00:16:54 +0000"
     },
     "done": true
   },
@@ -828,9 +804,9 @@
     },
     "done": true
   },
-  "nethers_exoticism:rambutan_adv": {
+  "minecraft:nether/loot_bastion": {
     "criteria": {
-      "rambutan_adv": "2025-04-12 00:30:52 +0000"
+      "loot_bastion_other": "2025-04-12 00:25:33 +0000"
     },
     "done": true
   },
@@ -840,9 +816,130 @@
     },
     "done": true
   },
+  "farmersdelight:main/get_ham": {
+    "criteria": {
+      "ham": "2025-04-12 00:30:24 +0000"
+    },
+    "done": true
+  },
+  "nethers_exoticism:rambutan_adv": {
+    "criteria": {
+      "rambutan_adv": "2025-04-12 00:30:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-04-12 00:34:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-12 00:48:20 +0000"
+    },
+    "done": true
+  },
+  "idas:nexus": {
+    "criteria": {
+      "in_nexus": "2025-04-12 01:10:11 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_white": {
+    "criteria": {
+      "has_white_wool": "2025-04-13 01:14:43 +0000"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/advanced_beehive": {
+    "criteria": {
+      "get_hive": "2025-04-13 01:02:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-04-13 01:15:46 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_iron": {
+    "criteria": {
+      "requirement": "2025-04-13 00:44:41 +0000"
+    },
+    "done": true
+  },
+  "productivebees:husbandry/bee_cage/catch_any_bee": {
+    "criteria": {
+      "catch": "2025-04-13 02:23:35 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-04-12 23:53:43 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_arcane_anvil": {
+    "criteria": {
+      "arcane_anvil": "2025-04-13 01:00:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-04-13 00:37:54 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_white": {
+    "criteria": {
+      "has_white_wool": "2025-04-13 01:14:43 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_gold": {
+    "criteria": {
+      "requirement": "2025-04-13 00:45:40 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_map": {
+    "criteria": {
+      "cave_map": "2025-04-12 23:53:50 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/stink_ray": {
+    "criteria": {
+      "sopa_de_macaco": "2025-04-13 01:36:59 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "sugar_water_floor": "2025-04-13 02:21:50 +0000",
+      "hive_wall": "2025-04-13 02:20:49 +0000"
+    },
+    "done": false
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-04-13 00:42:44 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/teleport_to_bumblezone_pearl": {
+    "criteria": {
+      "teleport_to_bumblezone_pearl": "2025-04-13 02:20:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-13 01:15:46 +0000"
     },
     "done": true
   },

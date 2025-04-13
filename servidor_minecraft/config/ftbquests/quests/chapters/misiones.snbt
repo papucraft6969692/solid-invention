@@ -139,22 +139,37 @@
 		{
 			description: ["Se iran cambiando las misiones de vez en cuando."]
 			id: "54751DFF2BFAA271"
-			rewards: [{
-				id: "646E529ECB68661F"
-				item: {
-					Count: 1
-					ForgeCaps: {
-						"celestisynth:celestisynthitemstackcapabilities": {
-							cs.aquaSkin: 0
+			rewards: [
+				{
+					id: "646E529ECB68661F"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "alexsmobs:stink_ray"
+						tag: {
+							Damage: 0
 						}
 					}
-					id: "alexsmobs:stink_ray"
-					tag: {
-						Damage: 0
-					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					command: "/summon papucraft:doxeo"
+					icon: {
+						Count: 1
+						id: "ftbquests:custom_icon"
+						tag: {
+							Icon: "alexsmobs:textures/entity/rainbow_jelly_overlays/glint_weezer.png"
+						}
+					}
+					id: "657B329260E866B9"
+					title: ":)"
+					type: "command"
+				}
+			]
 			tasks: [{
 				id: "2DC9E81824203749"
 				title: "Información"
@@ -330,6 +345,106 @@
 			}]
 			x: -4.0d
 			y: -0.5d
+		}
+		{
+			id: "6E7E43A7DA83709F"
+			rewards: [{
+				count: 64
+				id: "504E3C6543A4E6B3"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "3C990DB2E0C77DD9"
+				item: {
+					Count: 64
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:raw_iron"
+				}
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.5d
+		}
+		{
+			id: "42AFB238ED284E08"
+			rewards: [{
+				count: 64
+				id: "06D17FA495B0BAE5"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				consume_items: true
+				count: 64L
+				id: "6F74BE6A52AD3A2E"
+				item: {
+					Count: 64
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:raw_gold"
+				}
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.5d
+		}
+		{
+			id: "1CB7BFEAB3EC8BC7"
+			rewards: [{
+				count: 16
+				id: "65E86E4ACF8FE30E"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "numismatics:cog"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "2FD50D89E61639A9"
+				item: {
+					Count: 1
+					ForgeCaps: {
+						"celestisynth:celestisynthitemstackcapabilities": {
+							cs.aquaSkin: 0
+						}
+					}
+					id: "minecraft:diamond"
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 3.0d
 		}
 	]
 	title: "Misiones"
