@@ -11,7 +11,7 @@
 						cs.aquaSkin: 0
 					}
 				}
-				id: "papucraft:papu_conocimiento"
+				id: "papucraft:fragmento_papu"
 			}
 			weight: 0.1f
 		}
