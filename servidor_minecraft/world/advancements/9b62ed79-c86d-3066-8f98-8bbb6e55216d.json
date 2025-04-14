@@ -977,15 +977,9 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_light_blue": {
+  "born_in_chaos_v1:big_boy": {
     "criteria": {
-      "has_light_blue_wool": "2025-04-13 23:38:15 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:sugar_water/consume_sugar_water_bottle": {
-    "criteria": {
-      "consume_sugar_water_bottle": "2025-04-14 01:22:33 +0000"
+      "big_boy_0": "2025-04-13 22:33:21 +0000"
     },
     "done": true
   },
@@ -995,65 +989,9 @@
     },
     "done": true
   },
-  "the_bumblezone:structures/enter_throne_pillar": {
+  "alexscaves:alexscaves/raygun": {
     "criteria": {
-      "in_throne_pillar": "2025-04-14 01:37:54 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
-    "criteria": {
-      "strong_hidden": "2025-04-14 01:23:19 +0000"
-    },
-    "done": true
-  },
-  "mowziesmobs:kill_bluff": {
-    "criteria": {
-      "bluff": "2025-04-14 02:26:32 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
-    "criteria": {
-      "obtain_honey_crystal_shield": "2025-04-14 01:39:33 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/eat_radiation_foods": {
-    "criteria": {
-      "green_soylent": "2025-04-14 02:02:05 +0000"
-    },
-    "done": false
-  },
-  "the_bumblezone:structures/enter_all_structures": {
-    "criteria": {
-      "in_hanging_garden": "2025-04-14 01:15:20 +0000",
-      "in_goliath_honey_fountain": "2025-04-14 01:35:08 +0000",
-      "in_throne_pillar": "2025-04-14 01:37:54 +0000"
-    },
-    "done": false
-  },
-  "born_in_chaos_v1:big_boy": {
-    "criteria": {
-      "big_boy_0": "2025-04-13 22:33:21 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_light_blue": {
-    "criteria": {
-      "has_light_blue_wool": "2025-04-13 23:38:15 +0000"
-    },
-    "done": true
-  },
-  "alexscaves:alexscaves/defeat_nucleeper": {
-    "criteria": {
-      "killed": "2025-04-14 02:02:53 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
-    "criteria": {
-      "obtain_stinger_spear": "2025-04-14 01:39:30 +0000"
+      "raygun": "2025-04-13 23:28:24 +0000"
     },
     "done": true
   },
@@ -1063,27 +1001,15 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/defeat_brainiac": {
+  "comforts:sleeping_bag_light_blue": {
     "criteria": {
-      "killed": "2025-04-14 02:00:27 +0000"
+      "has_light_blue_wool": "2025-04-13 23:38:15 +0000"
     },
     "done": true
   },
-  "the_bumblezone:honey_bucket/obtain_royal_jelly_bucket": {
+  "comforts:hammock_light_blue": {
     "criteria": {
-      "obtain_royal_jelly_bucket": "2025-04-14 01:42:33 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:the_queens_desire/the_beginning": {
-    "criteria": {
-      "bee_queen_first_trade": "2025-04-14 01:38:41 +0000"
-    },
-    "done": true
-  },
-  "the_bumblezone:windy_air/obtain_windy_air": {
-    "criteria": {
-      "obtain_windy_air": "2025-04-14 01:40:49 +0000"
+      "has_light_blue_wool": "2025-04-13 23:38:15 +0000"
     },
     "done": true
   },
@@ -1093,27 +1019,101 @@
     },
     "done": true
   },
-  "alexscaves:alexscaves/discover_toxic_caves": {
-    "criteria": {
-      "discover": "2025-04-14 01:57:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:adventure/honey_block_slide": {
     "criteria": {
       "honey_block_slide": "2025-04-14 01:06:30 +0000"
     },
     "done": true
   },
-  "alexscaves:alexscaves/raygun": {
+  "the_bumblezone:structures/enter_all_structures": {
     "criteria": {
-      "raygun": "2025-04-13 23:28:24 +0000"
+      "in_hanging_garden": "2025-04-14 01:15:20 +0000",
+      "in_goliath_honey_fountain": "2025-04-14 01:35:08 +0000",
+      "in_throne_pillar": "2025-04-14 01:37:54 +0000"
     },
-    "done": true
+    "done": false
   },
   "the_bumblezone:structures/enter_garden": {
     "criteria": {
       "in_hanging_garden": "2025-04-14 01:15:20 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:sugar_water/consume_sugar_water_bottle": {
+    "criteria": {
+      "consume_sugar_water_bottle": "2025-04-14 01:22:33 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
+    "criteria": {
+      "strong_hidden": "2025-04-14 01:23:19 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2025-04-14 01:37:54 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_queens_desire/the_beginning": {
+    "criteria": {
+      "bee_queen_first_trade": "2025-04-14 01:38:41 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2025-04-14 01:39:30 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-04-14 01:39:33 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:windy_air/obtain_windy_air": {
+    "criteria": {
+      "obtain_windy_air": "2025-04-14 01:40:49 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_bucket/obtain_royal_jelly_bucket": {
+    "criteria": {
+      "obtain_royal_jelly_bucket": "2025-04-14 01:42:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-04-14 01:57:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-04-14 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "green_soylent": "2025-04-14 02:02:05 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-04-14 02:02:53 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-04-14 02:26:32 +0000"
     },
     "done": true
   },
