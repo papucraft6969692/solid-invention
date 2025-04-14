@@ -309,8 +309,11 @@
       "atmospheric:atmospheric:laurel_forest": "2025-04-11 01:16:31 +0000",
       "minecraft:stony_shore": "2025-04-11 01:35:28 +0000",
       "minecraft:dripstone_caves": "2025-04-12 00:52:21 +0000",
+      "minecraft:grove": "2025-04-14 01:55:00 +0000",
+      "minecraft:jagged_peaks": "2025-04-14 02:20:52 +0000",
       "minecraft:forest": "2025-04-09 00:50:55 +0000",
       "minecraft:lush_caves": "2025-04-12 00:56:59 +0000",
+      "environmental:environmental:pine_slopes": "2025-04-14 02:22:37 +0000",
       "minecraft:ocean": "2025-04-09 00:50:58 +0000",
       "atmospheric:atmospheric:aspen_parkland": "2025-04-11 01:48:08 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-11 01:50:12 +0000",
@@ -497,39 +500,9 @@
     },
     "done": true
   },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-04-12 00:26:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_helmet": "2025-04-11 23:58:04 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-04-12 00:47:48 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:find_soul_black_smith": {
-    "criteria": {
-      "blacksmith": "2025-04-12 00:16:53 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
-    "criteria": {
-      "scroll_forge": "2025-04-12 00:27:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/deflect_arrow": {
-    "criteria": {
-      "deflected_projectile": "2025-04-12 00:53:56 +0000"
     },
     "done": true
   },
@@ -554,33 +527,27 @@
     },
     "done": true
   },
-  "lootr:10loot": {
-    "criteria": {
-      "loot_stat": "2025-04-12 00:25:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-04-12 00:14:39 +0000"
     },
     "done": true
   },
-  "lootr:25loot": {
+  "cataclysm:find_soul_black_smith": {
     "criteria": {
-      "loot_stat": "2025-04-12 01:15:32 +0000"
+      "blacksmith": "2025-04-12 00:16:53 +0000"
     },
     "done": true
   },
-  "idas:nexus": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "in_nexus": "2025-04-12 01:07:57 +0000"
+      "bastion": "2025-04-12 00:24:32 +0000"
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
+  "lootr:10loot": {
     "criteria": {
-      "obsidian": "2025-04-12 00:26:59 +0000"
+      "loot_stat": "2025-04-12 00:25:31 +0000"
     },
     "done": true
   },
@@ -590,15 +557,21 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:nether/obtain_crying_obsidian": {
     "criteria": {
-      "shot_arrow": "2025-04-12 00:38:22 +0000"
+      "crying_obsidian": "2025-04-12 00:26:00 +0000"
     },
     "done": true
   },
-  "lootr:1cart": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "opened_cart": "2025-04-12 01:06:32 +0000"
+      "obsidian": "2025-04-12 00:26:59 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_scroll_forge": {
+    "criteria": {
+      "scroll_forge": "2025-04-12 00:27:41 +0000"
     },
     "done": true
   },
@@ -620,15 +593,33 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-04-12 00:24:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2025-04-12 00:34:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-04-12 00:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-04-12 00:38:22 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-04-12 00:47:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-12 00:53:56 +0000"
     },
     "done": true
   },
@@ -638,9 +629,110 @@
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
+  "lootr:1cart": {
     "criteria": {
-      "shot_crossbow": "2025-04-12 00:37:27 +0000"
+      "opened_cart": "2025-04-12 01:06:32 +0000"
+    },
+    "done": true
+  },
+  "idas:nexus": {
+    "criteria": {
+      "in_nexus": "2025-04-12 01:07:57 +0000"
+    },
+    "done": true
+  },
+  "lootr:25loot": {
+    "criteria": {
+      "loot_stat": "2025-04-12 01:15:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-13 22:51:40 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2025-04-14 01:38:05 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_hanging_garden": "2025-04-14 01:15:28 +0000",
+      "in_goliath_honey_fountain": "2025-04-14 01:35:13 +0000",
+      "in_throne_pillar": "2025-04-14 01:38:05 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/banana_slug": {
+    "criteria": {
+      "interact": "2025-04-14 01:23:39 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/enter_acid_with_armor": {
+    "criteria": {
+      "enter_acid_with_armor": "2025-04-14 02:00:47 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:candles/obtain_all_colored_super_candles": {
+    "criteria": {
+      "red_super_candle": "2025-04-14 01:15:36 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:honey_crystal/consume_honey_crystal_shards": {
+    "criteria": {
+      "consume_honey_crystal_shards": "2025-04-14 01:12:08 +0000"
+    },
+    "done": true
+  },
+  "idas:castle": {
+    "criteria": {
+      "in_castle": "2025-04-14 00:06:41 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_queens_desire/the_beginning": {
+    "criteria": {
+      "bee_queen_first_trade": "2025-04-14 01:38:52 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:decor/obtain_all_banner_patterns": {
+    "criteria": {
+      "banner_pattern_eyes": "2025-04-14 01:41:43 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:biomes/discover_all_biomes": {
+    "criteria": {
+      "crystal_canyon": "2025-04-14 01:38:02 +0000",
+      "sugar_water_floor": "2025-04-14 01:11:05 +0000",
+      "hive_wall": "2025-04-14 01:08:26 +0000",
+      "pollinated_fields": "2025-04-14 01:14:05 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-04-14 01:57:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-04-14 01:34:11 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_garden": {
+    "criteria": {
+      "in_hanging_garden": "2025-04-14 01:15:28 +0000"
     },
     "done": true
   },

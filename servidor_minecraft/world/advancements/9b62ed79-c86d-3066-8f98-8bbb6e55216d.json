@@ -100,11 +100,13 @@
       "atmospheric:atmospheric:rainforest_basin": "2025-04-11 02:19:02 +0000",
       "atmospheric:atmospheric:rainforest": "2025-04-11 02:18:34 +0000",
       "minecraft:grove": "2025-03-11 02:04:18 +0000",
+      "minecraft:jagged_peaks": "2025-04-14 02:20:31 +0000",
       "minecraft:cold_ocean": "2025-04-13 20:50:30 +0000",
       "minecraft:forest": "2025-03-11 00:43:22 +0000",
       "atmospheric:atmospheric:sparse_rainforest_basin": "2025-04-11 02:19:12 +0000",
       "minecraft:lush_caves": "2025-04-10 02:00:14 +0000",
       "environmental:environmental:pine_barrens": "2025-04-10 01:59:37 +0000",
+      "environmental:environmental:pine_slopes": "2025-04-14 02:20:32 +0000",
       "atmospheric:atmospheric:scrubland": "2025-04-11 02:08:20 +0000",
       "minecraft:ocean": "2025-03-13 21:18:11 +0000",
       "atmospheric:atmospheric:aspen_parkland": "2025-03-14 19:14:57 +0000",
@@ -194,6 +196,7 @@
       "minecraft:phantom": "2025-03-13 22:49:54 +0000",
       "minecraft:zombified_piglin": "2025-04-12 00:37:34 +0000",
       "minecraft:witch": "2025-04-10 02:13:10 +0000",
+      "minecraft:wither_skeleton": "2025-04-14 00:10:45 +0000",
       "minecraft:cave_spider": "2025-04-10 01:20:07 +0000",
       "minecraft:enderman": "2025-03-11 00:53:11 +0000",
       "minecraft:stray": "2025-04-10 01:22:55 +0000",
@@ -320,6 +323,7 @@
   "biomancy:biomancy/raw_meat_collection": {
     "criteria": {
       "has_raw_beef": "2025-03-11 01:42:56 +0000",
+      "has_raw_mutton": "2025-04-13 23:37:41 +0000",
       "has_raw_porkchop": "2025-04-12 00:29:42 +0000"
     },
     "done": false
@@ -935,8 +939,11 @@
   },
   "the_bumblezone:biomes/discover_all_biomes": {
     "criteria": {
+      "crystal_canyon": "2025-04-14 01:37:56 +0000",
       "sugar_water_floor": "2025-04-13 02:21:50 +0000",
-      "hive_wall": "2025-04-13 02:20:49 +0000"
+      "hive_wall": "2025-04-13 02:20:49 +0000",
+      "hive_pillar": "2025-04-14 01:06:15 +0000",
+      "pollinated_fields": "2025-04-14 01:14:11 +0000"
     },
     "done": false
   },
@@ -946,15 +953,21 @@
     },
     "done": true
   },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-04-13 20:14:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/return_to_sender": {
     "criteria": {
       "killed_ghast": "2025-04-13 19:07:25 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-04-13 19:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-13 20:14:19 +0000"
     },
     "done": true
   },
@@ -964,9 +977,143 @@
     },
     "done": true
   },
-  "mowziesmobs:kill_naga": {
+  "comforts:sleeping_bag_light_blue": {
     "criteria": {
-      "naga": "2025-04-13 19:25:33 +0000"
+      "has_light_blue_wool": "2025-04-13 23:38:15 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:sugar_water/consume_sugar_water_bottle": {
+    "criteria": {
+      "consume_sugar_water_bottle": "2025-04-14 01:22:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/nuclear_bomb": {
+    "criteria": {
+      "nuclear_bomb": "2025-04-13 23:27:40 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_throne_pillar": {
+    "criteria": {
+      "in_throne_pillar": "2025-04-14 01:37:54 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:pollen_pile/hide_in_pollen_pile": {
+    "criteria": {
+      "strong_hidden": "2025-04-14 01:23:19 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_bluff": {
+    "criteria": {
+      "bluff": "2025-04-14 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/obtain_honey_crystal_shield": {
+    "criteria": {
+      "obtain_honey_crystal_shield": "2025-04-14 01:39:33 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/eat_radiation_foods": {
+    "criteria": {
+      "green_soylent": "2025-04-14 02:02:05 +0000"
+    },
+    "done": false
+  },
+  "the_bumblezone:structures/enter_all_structures": {
+    "criteria": {
+      "in_hanging_garden": "2025-04-14 01:15:20 +0000",
+      "in_goliath_honey_fountain": "2025-04-14 01:35:08 +0000",
+      "in_throne_pillar": "2025-04-14 01:37:54 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-04-13 22:33:21 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_light_blue": {
+    "criteria": {
+      "has_light_blue_wool": "2025-04-13 23:38:15 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_nucleeper": {
+    "criteria": {
+      "killed": "2025-04-14 02:02:53 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:stinger_spear/obtain_stinger_spear": {
+    "criteria": {
+      "obtain_stinger_spear": "2025-04-14 01:39:30 +0000"
+    },
+    "done": true
+  },
+  "biomancy:biomancy/living_flesh": {
+    "criteria": {
+      "has_killed_hungry_flesh_blob": "2025-04-13 23:35:53 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_brainiac": {
+    "criteria": {
+      "killed": "2025-04-14 02:00:27 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_bucket/obtain_royal_jelly_bucket": {
+    "criteria": {
+      "obtain_royal_jelly_bucket": "2025-04-14 01:42:33 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:the_queens_desire/the_beginning": {
+    "criteria": {
+      "bee_queen_first_trade": "2025-04-14 01:38:41 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:windy_air/obtain_windy_air": {
+    "criteria": {
+      "obtain_windy_air": "2025-04-14 01:40:49 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_blaze": {
+    "criteria": {
+      "requirement": "2025-04-14 00:23:06 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_toxic_caves": {
+    "criteria": {
+      "discover": "2025-04-14 01:57:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/honey_block_slide": {
+    "criteria": {
+      "honey_block_slide": "2025-04-14 01:06:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/raygun": {
+    "criteria": {
+      "raygun": "2025-04-13 23:28:24 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:structures/enter_garden": {
+    "criteria": {
+      "in_hanging_garden": "2025-04-14 01:15:20 +0000"
     },
     "done": true
   },
