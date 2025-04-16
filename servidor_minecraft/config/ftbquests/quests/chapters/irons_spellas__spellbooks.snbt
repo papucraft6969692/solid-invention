@@ -705,6 +705,126 @@
 			x: 1.5d
 			y: -6.0d
 		}
+		{
+			dependencies: ["0AC53E63A084B485"]
+			description: ["Se encuentra en las catacumbas."]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "irons_spellbooks:textures/gui/spell_icons/wither_skull.png"
+				}
+			}
+			id: "353E81254B4A64A7"
+			rewards: [
+				{
+					count: 3
+					id: "7990329BE17E15FB"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:sun"
+					}
+					type: "item"
+				}
+				{
+					id: "21B4FAB7C3B1FA98"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+			]
+			shape: "hexagon"
+			size: 1.3d
+			tasks: [{
+				entity: "irons_spellbooks:dead_king"
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "irons_spellbooks:textures/gui/spell_icons/wither_skull.png"
+					}
+				}
+				id: "644B7773DE21897E"
+				title: "Rey Muerto"
+				type: "kill"
+				value: 1L
+			}]
+			x: -2.5d
+			y: -1.0d
+		}
+		{
+			dependencies: ["353E81254B4A64A7"]
+			description: ["Se invoca con un pergamino especial que se puede encontrar en los cofres de las catacumbas. Es una versión más fuerte del Rey Muerto normal."]
+			icon: {
+				Count: 1
+				id: "ftbquests:custom_icon"
+				tag: {
+					Icon: "traveloptics:textures/gui/spell_icons/call_forth_the_dead_king.png"
+				}
+			}
+			id: "73686B1D3FA0459B"
+			rewards: [
+				{
+					count: 5
+					id: "7211D4586DDE5143"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "numismatics:sun"
+					}
+					type: "item"
+				}
+				{
+					id: "18D199A6B5762068"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					id: "567597A95763E1E5"
+					item: {
+						Count: 1
+						ForgeCaps: {
+							"celestisynth:celestisynthitemstackcapabilities": {
+								cs.aquaSkin: 0
+							}
+						}
+						id: "productivebees:spawn_egg_configurable_bee"
+						tag: {
+							EntityTag: {
+								type: "productivebees:arcane_essence"
+							}
+						}
+					}
+					type: "item"
+				}
+			]
+			shape: "hexagon"
+			size: 1.5d
+			tasks: [{
+				entity: "traveloptics:enraged_dead_king"
+				icon: {
+					Count: 1
+					id: "ftbquests:custom_icon"
+					tag: {
+						Icon: "traveloptics:textures/gui/spell_icons/call_forth_the_dead_king.png"
+					}
+				}
+				id: "54064D493A7B4519"
+				title: "Rey Muerto Furioso"
+				type: "kill"
+				value: 1L
+			}]
+			x: -3.5d
+			y: -3.0d
+		}
 	]
 	title: "Spells and Spellbooks"
 }

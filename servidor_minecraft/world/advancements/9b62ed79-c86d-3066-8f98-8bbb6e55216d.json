@@ -228,6 +228,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-13 20:24:02 +0000",
+      "cooked_beef": "2025-04-16 21:31:31 +0000",
       "bread": "2025-03-11 00:54:21 +0000",
       "golden_apple": "2025-03-11 23:30:55 +0000",
       "environmental:plum": "2025-04-11 01:58:44 +0000"
@@ -518,10 +519,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-04-12 00:33:35 +0000",
       "minecraft:nether_wastes": "2025-03-14 18:45:47 +0000",
+      "minecraft:soul_sand_valley": "2025-04-16 21:50:01 +0000",
       "minecraft:basalt_deltas": "2025-04-12 00:14:41 +0000",
       "minecraft:warped_forest": "2025-04-12 00:24:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "quark:get_bottled_cloud": {
     "criteria": {
@@ -1114,6 +1116,60 @@
   "mowziesmobs:kill_bluff": {
     "criteria": {
       "bluff": "2025-04-14 02:26:32 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_villager": {
+    "criteria": {
+      "requirement": "2025-04-16 22:45:02 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:honey_crystal_shield/honey_crystal_shield_block_ineffectively": {
+    "criteria": {
+      "honey_crystal_shield_block_ineffectively": "2025-04-16 21:29:27 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/nether_eye": {
+    "criteria": {
+      "nether_eye": "2025-04-16 21:42:58 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/make_wayward_compass": {
+    "criteria": {
+      "inscription_table": "2025-04-16 22:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-04-16 22:12:59 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/bellringer_summon": {
+    "criteria": {
+      "get_item": "2025-04-16 22:33:12 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/swampjaw_summon": {
+    "criteria": {
+      "get_item": "2025-04-16 22:15:22 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:bypassingthe_expiration_date": {
+    "criteria": {
+      "bypassingthe_expiration_date_0": "2025-04-16 21:21:20 +0000"
+    },
+    "done": true
+  },
+  "meetyourfight:main/dame_fortuna_summon": {
+    "criteria": {
+      "get_item": "2025-04-16 22:32:44 +0000"
     },
     "done": true
   },
